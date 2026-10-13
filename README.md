@@ -9,3 +9,9 @@ The purpose of this project is to help me record my money expense. As an interna
 3. I used to track things in a paper but I always lost it.
 
 I will record my coding joruney here so that I can use this personal banker to track my money, summarize in categories easily and calculate into RMB with ease. 
+
+
+
+I will update my resources list here. Will format it better in the end. 
+
+https://excalidraw.com/ - used to draw graphs 
