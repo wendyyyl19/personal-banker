@@ -1,5 +1,5 @@
 # Naming and comments reviewed on 2026-10-22; original stage behaviour kept.
-
+# This is my first progress file shared in the class
 
 # keep expense records
 expenses = []
