@@ -21,3 +21,6 @@ https://docs.python.org/3/tutorial/datastructures.html
 https://www.w3schools.com/python/python_dictionaries.asp
 
 Access list: https://www.w3schools.com/python/python_lists_access.asp, https://www.w3schools.com/python/python_dictionaries_access.asp
+
+
+https://www.youtube.com/watch?v=rfscVS0vtbw
