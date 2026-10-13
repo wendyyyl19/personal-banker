@@ -1,5 +1,5 @@
 
-"""Personal Banker: my first working version."""
+"""Personal Banker: my 2nd working version."""
 from openpyxl import Workbook
 from datetime import datetime, date
 
