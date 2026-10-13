@@ -1,4 +1,4 @@
-
+# This is my first progress file shared in the class
 
 # I use a list because I want to save more expenses later.
 expenses = []
