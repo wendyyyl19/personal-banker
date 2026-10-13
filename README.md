@@ -16,5 +16,8 @@ I will update my resources list here. Will format it better in the end.
 
 progress1 resources:
 https://excalidraw.com/ - used to draw graphs 
+
 https://docs.python.org/3/tutorial/datastructures.html 
 https://www.w3schools.com/python/python_dictionaries.asp
+
+Access list: https://www.w3schools.com/python/python_lists_access.asp, https://www.w3schools.com/python/python_dictionaries_access.asp
