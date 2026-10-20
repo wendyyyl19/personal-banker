@@ -24,3 +24,10 @@ Access list: https://www.w3schools.com/python/python_lists_access.asp, https://w
 
 
 https://www.youtube.com/watch?v=rfscVS0vtbw
+
+
+Progress 3 resources:
+https://www.youtube.com/watch?v=7YS6YDQKFh0
+https://www.w3schools.com/python/python_datetime.asp
+https://openpyxl.readthedocs.io/en/stable/tutorial.html
+https://www.w3schools.com/python/ref_string_isascii.asp
