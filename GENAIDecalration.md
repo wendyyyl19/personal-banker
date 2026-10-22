@@ -1,1 +1,6 @@
-This will be my GenAI decalaration file. I used it to help learn and correct my grammars. 
+I declare that I used DeepSeek to ask about grammar and clarity, Chinese-to-English translation, and the layout of my Personal Banker reflection. I also reviewed its explanation of Markdown formatting. The following screenshots show the prompts and responses. For grammar, I asked for small corrections without rewriting the whole paragraph. DeepSeek found no grammatical errors in the sentences provided. It suggested words such as “contains” and “stores” for clarity. I would still choose wording that I understand and can explain, rather than accept every suggestion. For translation, I asked it to keep the uncertainty in a sentence about damaged or manually modified Excel files. The answer kept the statement that this case had not been checked. That distinction matters because reading back two records does not show that every file problem can be handled. For layout, I asked where to place existing figures. DeepSeek suggested putting the display comparison first and the saved rows and retrospective notes in the saving/loading section. This helped me consider whether the images follow the discussion. The Markdown answer explained headings, lists, links and code blocks. Overall, the tool provided quick guidance, but I still needed to check whether the wording and layout suited the document.
+
+
+The submitted pdf GENAI will contain more screenshot
+
+

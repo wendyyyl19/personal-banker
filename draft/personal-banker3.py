@@ -1,4 +1,5 @@
 # Naming and comments reviewed on 2026-10-22; original stage behaviour kept.
+
 """Personal Banker: my first working version."""
 from openpyxl import Workbook
 from datetime import datetime, date
